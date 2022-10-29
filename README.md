@@ -8,5 +8,5 @@ Should you run into any snags, or have questions, feel free to reach out: [info@
 
 Until then, have a great day!
 
-Thanx,
+Thanx,  
 Fred
