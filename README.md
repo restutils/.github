@@ -1,4 +1,4 @@
-Welcome to RESTUtils!
+# Welcome to RESTUtils!
 
 More than likely you're here for the RESTUtils Host; a small utility that instantly converts any JavaScript library or Node package into a web-based REST API.  Here's a quick video showing how to use it:
 
